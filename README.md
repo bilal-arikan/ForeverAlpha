@@ -3,4 +3,4 @@ Forever Alpha (procedural space ship battle game)
 
 ### Screenshots
 
-![Alt text](/screenshots/1.png?raw=true "SS 01")
+![Alt text](/Screenshots/1.PNG?raw=true "SS 01")
