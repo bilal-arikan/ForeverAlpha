@@ -1,5 +1,7 @@
 # Forever Alpha (Canceled)
-Forever Alpha (Unreal Engine 4)(procedural space ship battle game)
+Forever Alpha (Unreal Engine 4)
+
+space battle simulator with procedurally generated ships 
 
 ### Screenshots
 
